@@ -2,8 +2,10 @@
 layout: blog
 category: blog
 published: true
-splash: 'http://placehold.it/1600x500'
+splash: >-
+  http://b01.deliver.odai.yale.edu/d4/dc/d4dca501-90bb-4906-b79c-c49a16994be9/ba-obj-894-0004-pub-large.jpg
 title: Axolotl
+tags: ''
 ---
 
 
